@@ -15,4 +15,5 @@ print(a.center(100, '*')) # will center align the string, using a specified char
 print(a.count('a'))     # returns the number of times a specified value appears in the string.
 print(a.startswith('my'))   # returns True if the string starts with the specified value, otherwise False.
 print(a.endswith('ar'))     # returns True if the string ends with the specified value, otherwise False. 
+
 '''
