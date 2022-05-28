@@ -16,4 +16,5 @@ print(a.count('a'))     # returns the number of times a specified value appears 
 print(a.startswith('my'))   # returns True if the string starts with the specified value, otherwise False.
 print(a.endswith('ar'))     # returns True if the string ends with the specified value, otherwise False. 
 
+
 '''
