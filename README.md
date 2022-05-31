@@ -1,2 +1,2 @@
 # Python
-python practice codes on string,list methods
+python practice codes on string,list, tuple methods
