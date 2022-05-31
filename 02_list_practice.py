@@ -1,5 +1,5 @@
 k=[1,2,3,3,6,7,4]
-# k.sort()
+#  k.sort()
 print(k)
 print(k[1:])
 print(k)
