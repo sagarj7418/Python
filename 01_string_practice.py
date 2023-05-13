@@ -18,3 +18,4 @@ print(a.endswith('ar'))     # returns True if the string ends with the specified
 
 
 '''
+print(a) 
